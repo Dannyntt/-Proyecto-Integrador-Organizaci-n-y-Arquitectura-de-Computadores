@@ -144,7 +144,7 @@ sh
 # Declaración de uso de IA
 
 Durante el desarrollo del proyecto se utilizaron herramientas de inteligencia
-artificial generativa como apoyo para comprensión de conceptos, revisión de
+artificial como apoyo para comprensión de conceptos, revisión de
 código y generación de ejemplos.
 
 Los integrantes asumimos plena responsabilidad académica sobre el contenido
