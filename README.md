@@ -3,12 +3,8 @@
 
 ### Integrantes
 
-| Integrante | GitHub |
-|---|---|
-| Matías Gil Montoya | `@matgimon18a` |
-| Daniela Giraldo Salas | `@dannyntt` |
-
-📘 **Curso:** Sistemas operativos 2026-2 &nbsp;·&nbsp; **Docente:** José Luis Montoya Pareja
+- Matías Gil Montoya
+- Daniela Giraldo Salas
 
 ### Curso
 
@@ -97,7 +93,7 @@ Copiar todos los archivos entregados dentro del directorio `user/`.
 
 ## Paso 3. Modificar el Makefile
 
-Agregar el programa al listado de aplicaciones de usuario (`UPROGS`).
+Agregar el programa al listado de aplicaciones de usuario.
 
 ## Paso 4. Compilar xv6
 
